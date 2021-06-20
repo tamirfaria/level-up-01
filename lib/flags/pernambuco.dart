@@ -119,7 +119,7 @@ class PernambucoFlag extends StatelessWidget {
               ),
               Positioned(
                 top: 130,
-                left: 180,
+                left: 165,
                 child: Container(
                   height: 60,
                   width: 10,
@@ -131,7 +131,7 @@ class PernambucoFlag extends StatelessWidget {
               ),
               Positioned(
                 top: 145,
-                left: 165,
+                left: 150,
                 child: Container(
                   height: 10,
                   width: 40,
